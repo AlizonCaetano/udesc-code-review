@@ -1,2 +1,4 @@
 # udesc-code-review
-Repositório de aula de qualidade - UDESC
+Repositório de aula de Qualidade de Software - UDESC
+
+Aula de code review com Github
